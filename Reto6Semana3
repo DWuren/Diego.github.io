@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<title>Presentaci&oacuten 3</title>
+</head>
+<body style="background-color: orange">
+	  <div class="row">
+    <div class="col s12">
+      <ul class="tabs">
+        <li class="tab col s4"><a href="#Disenar">Dise&ntildear</a></li>
+        <li class="tab col s4"><a class="active" href="#Armar">Armar</a></li>
+        <li class="tab col s4"><a href="#Presentar">Presentar</a></li>
+      </ul>
+    </div>
+    <div id="Disenar" class="col s12">Dise&ntildear</div>
+    	<img width="600" src="https://www.maxcf.es/wp-content/uploads/2018/07/maquetar-paginas-wordpress.jpg">
+    	<p>
+    		Despu&eacutes de dividir las tareas, es importante disenar el c&oacutemo la página lucir&aacute para que m&aacutes adelante sea armada.
+    	</p>
+    <div id="Armar" class="col s12">Armar</div>
+    	<img width="600" src="https://http2.mlstatic.com/juguete-educativo-forma-cubos-para-armar-D_NQ_NP_957505-MLM32374209452_092019-F.jpg">
+    	<p>
+    		Con el dise&ntildeo ya preestablecido, se busca pasarlo a digital y darle funcionalidad.
+    	</p>
+    <div id="Presentar" class="col s12">Presentar</div>
+    	<img width="600" src="https://comunidad.iebschool.com/iebs/files/2015/07/presentacion-de-tu-proyecto.jpg">
+    	<p>
+    		Se presenta al equipo el trabajo logrado despu&eacutes de armar el modelo y recibir comentarios sobre mejoras.
+    	</p>
+  </div>
+</body>
+</html>
